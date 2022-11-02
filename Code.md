@@ -94,6 +94,8 @@ public class HelloClient
 }
 
  
+*Start rmiregistry*
+
 Exp 5:-
 
 Client:
